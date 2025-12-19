@@ -100,7 +100,4 @@ npm run build
 
 ### Hasil build akan berada di folder:
 
-```bash
 dist/
-
-```
