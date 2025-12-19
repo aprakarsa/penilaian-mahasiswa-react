@@ -65,7 +65,7 @@ Isi nilai mahasiswa (1–10)
 
 Klik tombol Simpan
 
-Output JSON akan muncul di bawah tabel penilaian
+Output JSON akan muncul di bawah tabel penilaian di console web browser.
 
 ## Contoh Output JSON
 
