@@ -69,26 +69,26 @@ Output JSON akan muncul di bawah tabel penilaian
 
 ## Contoh Output JSON
 
-```bash
+```json
 [
-{
-"nama": "Mahasiswa 1",
-"penilaian": {
-"kehadiran": 8,
-"tugas": 9,
-"uts": 7,
-"uas": 8
-}
-},
-{
-"nama": "Mahasiswa 2",
-"penilaian": {
-"kehadiran": 7,
-"tugas": 8,
-"uts": 8,
-"uas": 9
-}
-}
+    {
+        "nama": "Mahasiswa 1",
+        "penilaian": {
+            "kehadiran": 8,
+            "tugas": 9,
+            "uts": 7,
+            "uas": 8
+        }
+    },
+    {
+        "nama": "Mahasiswa 2",
+        "penilaian": {
+            "kehadiran": 7,
+            "tugas": 8,
+            "uts": 8,
+            "uas": 9
+        }
+    }
 ]
 ```
 
